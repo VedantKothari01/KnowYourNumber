@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KnowYourNumber</string>
+
+
+    <string name="profile_image">Profile Image</string>
+    <string name="about_developer">About the Developer</string>
+    <string name="contact_info">Contact: vedantkothari41@gmail.com</string>
+    <string name="heart_button_description">Heart Button</string>
+    <string name="support_thanks">Thank you for your support!</string>
+    <string name="support_removed">Support removed.</string>
+</resources>
